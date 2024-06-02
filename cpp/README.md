@@ -1,0 +1,1 @@
+To compile code in windows press = ```ctrl+shift+b```
