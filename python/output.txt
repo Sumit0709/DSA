@@ -1,1 +1,4 @@
-Hello
+Starting program...
+Sum of array elements =  15
+
+________End of Program_________
